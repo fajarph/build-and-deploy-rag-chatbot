@@ -1,0 +1,11 @@
+{
+    "name": "YAYAYAYA",
+    "version": "1.0.0",
+    "description": "F1GPT",
+    "manifest_version": 3,
+    "author": "Fajar",
+    "action":{
+        "default_popup": "page.tsx",
+        "default_title": "F1GPT"
+    }
+}
